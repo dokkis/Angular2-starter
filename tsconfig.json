@@ -9,5 +9,7 @@
     "removeComments": false,
     "noImplicitAny": true,
     "suppressImplicitAnyIndexErrors": true
-  }
+  },
+  "compileOnSave": false,
+  "buildOnSave": false
 }
